@@ -1,3 +1,10 @@
+Used 2 npm packages for this i18next and react-i18next
+
+<img width="1180" alt="Screenshot 2023-09-24 at 11 45 43 PM" src="https://github.com/mksmanish/QuizLanguage/assets/30216938/2b925f0c-dde1-45e1-b71c-ba7903c5ad93">
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
