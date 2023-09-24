@@ -1,0 +1,12 @@
+{
+    "translation":{
+        "headerText":"RÈGLES DU QUIZ",
+        "rule1":"Pour chaque bonne réponse, vous obtenez 10 points.",
+        "rule2":"Il n’y a pas de note négative pour une mauvaise réponse.",
+        "rule3":"Chaque question a une limite de temps de 15 secondes.",
+        "rule4":"Vous devez obligatoirement répondre à toutes les questions posées.",
+        "startQuiz":"Démarrer le quiz"
+        
+    }
+}
+

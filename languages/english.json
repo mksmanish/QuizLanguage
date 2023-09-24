@@ -1,0 +1,10 @@
+{
+    "translation":{
+        "headerText":"QUIZ RULES",
+        "rule1":"For each correct answer you get 10 points.",
+        "rule2":"There is no negative marking for the wrong answer.",
+        "rule3":"Each Questions has a time limit for 15 seconds.",
+        "rule4":"You have to compulsarily anser all the Questions Given.",
+        "startQuiz":"Start Quiz"
+    }
+}
